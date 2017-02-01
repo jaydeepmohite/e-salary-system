@@ -1,0 +1,16 @@
+1) First Create Tables in Database Specified in DATABASE txt file.(ORACLE 11g)
+
+2)First You have to register school 
+
+3)Login As School And Provide Staff Details...
+
+4)Register the Teacher.
+
+5)In School Profile,Upload Salary  Database(.csv file)(including columns specified in salary_details table)
+
+6)Login as Administrator,then select taluka and school
+ 
+7)Then You can transfer salary  as well as view reports,generate salary
+
+8)teacher also can view salary status of any previous month 
+
